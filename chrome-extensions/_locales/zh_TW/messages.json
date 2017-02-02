@@ -30,7 +30,7 @@
 "likeresult" : {"message" : "喜歡嗎? 寫個友善的評論並給五顆星。"},
 "or" : {"message" : "或"},
 "filebug" : {"message" : "回報臭蟲"},
-"zoom" : {"message" : "Zoom"},
+"zoom" : {"message" : "放大"},
 "tosavemessage" : {"message" : "如要儲存圖片, 在圖片上點擊右鍵並選擇 \"另存圖片\""},
 "loadcapturescript" : {"message" : "程式碼載入中…..."},
 "cannotscroll" : {"message" : "不能向下捲動本網頁!<br><br/>請嘗試重新開啟該頁"},
